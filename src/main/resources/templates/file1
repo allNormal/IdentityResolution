@@ -1,0 +1,2112 @@
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-dbbc6dd9-82a1-4033-8705-cd901a67466a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "NAS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/field_road_fort_myers_florida_33967_united_states_of_america_dhtyd52b443/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://nassaulpia.com/to-from/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://nassaulpia.com/to-from/#local-taxi-rates" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-83a8ebf1-5b76-4bea-9d79-29a5a40f458c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.kapnosairportshuttle.com/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LCA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://cy.parkopedia.com/parking/locations/flughafen_larnaka_%CE%9B%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1_larnaka_bezirk_larnaka_republik_zypern_swpymhbbr0b/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://enlimassolairportexpress.eu/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.hermesairports.com/media/cms/guide%20taxi%20service.pdf" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5e6a4ce5-d0e8-4e9c-8df3-3faa78e9d11d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HAN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_hanoi_s%C3%B3c_s%C6%A1n_soc_son_hanoi_140800_vietnam_w7g0xwu4ene/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-85dfd9cd-25df-4a9b-b660-2126db67fda6>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TAS" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9dcb2bdb-30b7-48c9-8264-d43377fe2fdd>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "NBO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/embakasi_nairobi_kenya_kzf2853fvqq/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f70ca11a-0566-4e46-b5bc-7c78957570ec>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LTN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/airport_wy_luton_luton_lu2_9nh_united_kingdom_gcpxp5kfphq/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.london-luton.co.uk/to-and-from-lla/coming-from-central-london-via-bus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.london-luton.co.uk/to-and-from-lla/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1f51e212-fdf2-4221-b41d-cd79461d4ac1>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DTW" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/detroit_michigan_48242_united_states_of_america_dps8ph5554q/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-62dfde31-ae1d-4632-9293-206fb74f0e07>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.shanghai-hongqiao-airport.com/bus.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SHA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.cn/parking/locations/flughafen_shanghai_hongqiao_2550_hongqiao_rd__%E8%99%B9%E6%A1%A5%E8%B7%AF2550%E5%8F%B7_shanghai_volksrepublik_china_wtw33p0jthu/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.shanghai-hongqiao-airport.com/metro.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.shanghai-hongqiao-airport.com/taxi.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9ccb16db-fb99-4662-9e8f-1e85ccfdd9d3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TPE" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.taoyuan-airport.com/english/public_transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.taoyuan-airport.com/english/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-2266eb08-5635-4143-935a-382d71b81ca7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aai.aero/en/airports/transport/kolkata" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CCU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/flughafen_kolkata_jessore_rd_kalkutta_westbengalen_indien_tunbue424c4/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aai.aero/en/airports/transport/kolkata" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aai.aero/en/airports/transport/kolkata" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a62112d3-275e-4ea6-aefa-e8d6b902d281>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LGK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://my.parkopedia.com/parking/locations/runway_%2540_langkawi_international_airport_padang_mat_sirat_pulau_langkawi_perlis_07000_malaysia_w1nuj2kt1zx/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.langkawiairport.com/langkawi-airport-transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-869037a9-de7d-4d4e-a2ac-f9fefd393657>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HMO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.mx/parking/locations/aeropuerto_hermosillo_sonora_mexico_9t1j3p66cmp/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c1c2adbb-e582-4c5c-a0a5-49dd785b0741>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CXR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/cam_h%E1%BA%A3i_%C4%90%C3%B4ng_654500_cam_ranh_khanh_hoa_vietnam_w6jsm2y4b13/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-44898a7a-81e9-430c-aae7-a035de2a36c1>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.milanomalpensa-airport.com/en/from-to/by-coach" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.milanomalpensa-airport.com/en/from-to/car-sharing" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MXP" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/21010_ferno_province_of_varese_italy_u0n5w4wqj8w/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.milanomalpensa-airport.com/en/from-to/by-train" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.milanomalpensa-airport.com/en/from-to/by-taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-0b826b5a-80bf-4f5a-b9a4-cf950d4d84ac>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.changiairport.com/en/airport-guide/transport/shuttle-services.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SIN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/airport_boulevard_singapore_819658_singapore_w21zwjrvuuf/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.changiairport.com/en/airport-guide/transport/leaving-the-airport.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.changiairport.com/en/airport-guide/facilities-and-services/ground-transport-concierge.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-44749413-0336-4bd4-94a6-3c5e8629d6be>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.aena.es/en/madrid-barajas-airport/vehicles-driver.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MAD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.es/parking/locations/avinguda_de_la_hispanidad_28042_madrid_madrid_spain_ezjqntdt0bp/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aena.es/en/madrid-cuatro-vientos-airport/public-transport.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aena.es/en/madrid-barajas-airport/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f34b9135-870f-4e06-b974-25c4274af02f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.dgca.gov.kw/en/travellers/to-and-from-the-airport/airport-taxies-buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "KWI" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://kw.parkopedia.com/parking/locations/kuwait_international_airport_airport_rd_airport_al_farwaniyah_governorate_kuwait_tj4n79yerpf/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.dgca.gov.kw/en/travellers/to-and-from-the-airport/airport-taxies-buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.dgca.gov.kw/ar/travellers/to-and-from-the-airport/airport-taxies-buses" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-14947aeb-a03c-4d24-8e32-60e85bf25e90>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.dus.com/de-de/an-und-abreise/auto/carsharing" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DUS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.de/parking/locations/flughafenstra%C3%9Fe_105_40468_d%C3%BCsseldorf_germany_u1hg9yppg0u/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.dus.com/de-de/an-und-abreise" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.dus.com/de-de/an-und-abreise/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e71ea8d7-879c-40ba-9667-09c6a9b27cd6>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TFS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/38610_granadilla_de_abona_canary_islands_spain_esupwdqg1fz/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aena.es/en/tenerife-sur-airport/public-transport.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aena-aeropuertos.es/en/tenerife-sur-airport/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-71cb1607-815c-417c-bab8-f098a91f087c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SMR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/terminal_aviacion_general_sim%C3%B3n_bol%C3%ADvar_anzo%C3%A1tegui_venezuela_d9f180142mt/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-753bf9b1-d81c-430e-ac9b-b98515f18a32>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CUN" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6e62f26b-a1bd-4ea7-9816-b62078daa1a0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EOH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://co.parkopedia.com/parking/locations/medell%C3%ADn_antioquia_department_colombia_d34782b46cf/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9f343f52-8e14-4f61-9c57-d1da25327160>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ALG" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-37d8d847-8518-4927-aa5e-be60806ac80b>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GYD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/baku_azerbaijan_tp5mwh8bgfg/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.airport.az/en/terminal-one/transport-and-parking/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e091ee99-3177-4591-8ea6-b51cbe3ea348>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SJU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/carolina_00979_puerto_rico_de30csvsy3p/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aeropuertosju.com/en/transportation/entaxis/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aeropuertosju.com/en/transportation/entaxis/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5d48618a-5389-4187-b948-335acb66db86>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DLI" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/da_lat_l%C3%A2m_%C4%90%E1%BB%93ng_vietnam_w6j5gtfmk0x/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c16acaef-2b1f-4d3d-9f9d-a3b0a21483df>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.asur.com.mx/en/airports/veracruz/veracruz-passengers/land-transport/transfers-shutles.html#.XfIPSYBKhhE" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "VER" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.asur.com.mx/en/airports/veracruz/veracruz-passengers/land-transport/taxis.html#.XfIPKYBKhhF" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a09266b4-206c-4d10-8c2c-88e80c2f12b6>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AVL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/61_terminal_drive_fletcher_north_carolina_28732_united_states_of_america_dnm39dz0wwx/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://flyavl.com/passenger-services/parking-transportation/ground-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-3ee97087-5989-42e7-b573-a52191094695>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MPH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/godofredo_p._ramos_airport_airport_rd._caticlan_malay_aklan_5608_philippinen_wdnez4gf5w7/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ba591604-766f-4d29-9368-53c7323004cc>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DAD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/hai_chau_da_nang_vietnam_w6ugq5dp817/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6bfebcf2-5749-4068-9c1d-35818324fbd0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.erbilairport.com/GUDE02/F_GUDE02_01_10.aspx" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EBL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/erbil_erbil_governorate_iraq_syrmc6yuv8x/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.erbilairport.com/F_GUDE02_01_09.aspx" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1046a4b3-e52b-40b0-999c-cfef2595f298>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "NYO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/general_schybergs_v%C3%A4g_22_611_92_nyk%C3%B6ping_sweden_u6kn3j3vv9z/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.skavsta.se/en/getting-to-and-from/bus-train-taxi/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.skavsta.se/en/getting-to-and-from/bus-train-taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4aef27b2-2b55-4ab4-ac01-f8b28d82687e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "NGO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/chubu_centrair_international_airport_%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AC%E3%82%A21-1_tokoname_aichi_prefecture_japan_xn1q31y575u/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.centrair.jp/en/access/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.centrair.jp/en/access/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c61e792e-af9f-4832-9bf7-f57850986eda>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.erbilairport.com/GUDE02/F_GUDE02_01_10.aspx" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EBL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/erbil_erbil_governorate_iraq_syrmc6yuv8x/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.erbilairport.com/F_GUDE02_01_09.aspx" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-3789e206-7315-4582-bf44-15aa404a0c25>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aeropuertosgap.com.mx/en/tijuana-3/servicios/transportacion-terrestre.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TIJ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/hospital_nueva_tijuana_l%C3%B3pez_portillo_poniente_317_m%C3%B3dulo_3_otay_tijuana_baja_california_22435_mexico_9muc5htndnq/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aeropuertosgap.com.mx/en/tijuana-3/servicios/transportacion-terrestre.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aeropuertosgap.com.mx/en/tijuana-3/servicios/transportacion-terrestre.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7accfa29-71fd-4224-a29e-2a3adcc3e249>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LKO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/amausi_lucknow_lucknow_uttar_pradesh_india_tuc828jpgs7/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1e79dab0-49b2-4c31-9f9e-59b40530d92b>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CNN" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6e5b8000-fdfa-4a3c-be22-499a6f45ce02>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PNQ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/gate_4_pune_international_airport_lohegaon_pune_maharashtra_india_tek99y63wq1/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.puneairport.com/bus.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.puneairport.com/taxi.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-377fd3b6-17e9-4ad5-beda-e4324380a64e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AVL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/61_terminal_drive_fletcher_north_carolina_28732_united_states_of_america_dnm39dz0wwx/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://flyavl.com/passenger-services/parking-transportation/ground-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-d4720b7f-f4f6-4bec-8fa7-ee5b401790a6>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.cdairport.com/en/parking_lot.aspx?t=125" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CTU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.cdairport.com/en/traffic.aspx?t=121" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.cdairport.com/en/parking_lot.aspx?t=123" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-673387e9-eb8f-4da2-858f-27da2c6db286>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.muscatairport.co.om/en/content/to-from#buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MCT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.muscatairport.co.om/en/content/to-from#taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8bf1250e-bb8f-40a2-bdf0-1d8366d8afe2>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.airport.co.kr/gimhaeeng/content/contents.do?cid=2016010913370527489&menuId=2734" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PUS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/daejeo_2(i)-dong_gangseo-gu_busan_south_korea_wy78n6d80g1/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.airport.co.kr/gimhaeeng/extra/bus/busList/layOut.do?langType=1&cid=2016010913352165563&menuId=2728" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.airport.co.kr/gimhaeeng/content/contents.do?cid=2016010913372310175&menuId=2735" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-dc39b8b8-f60e-4cc7-b6cf-63096c0514f2>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DVO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/buhangin_davao_city_davao_province_8000_philippines_wc326qj8zxp/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-626792c3-5dad-4a09-a4fc-1c4872337a29>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TAP" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://licitaciones.asur.com.mx/en/airports/tapachula/tapachula-passengers/land-transport/taxis.html#.XfIRjoBKhhE" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-56bae367-6134-4730-a041-c4526aae3af3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_map_link>
+              "https://de.maps-boston.com/img/0/logan-international-airport-landkarte.jpg" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.massport.com/logan-airport/to-from-logan/transportation-options/on-airport-shuttle/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BOS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/1_harborside_drive_boston_massachusetts_02128_united_states_of_america_drt3pb08v4z/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.massport.com/logan-airport/to-from-logan/transportation-options/explore-routes/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.massport.com/logan-airport/to-from-logan/transportation-options/ground-transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-55201f38-eaf2-4ac0-a85f-bc890f7e2cd7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DAR" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-dd7ba237-10cc-48c5-b952-af895c78c62e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "USU" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6caf945a-56a7-4aab-9960-83a155d97c4c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.finavia.fi/en/airports/helsinki-airport/access/buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HEL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://fi.parkopedia.com/parking/locations/vantaa_uusimaa_finland_ud9z19k8yye/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.finavia.fi/en/airports/helsinki-airport/access/trains" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.finavia.fi/en/airports/helsinki-airport/access/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-d8c81dcc-df1f-4559-9581-eb87d191cc11>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.elpasointernationalairport.com/shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ELP" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/6701_convair_road_el_paso_texas_79925_united_states_of_america_9tskfswtxy2/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.elpasointernationalairport.com/buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.elpasointernationalairport.com/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8cc2979a-35e2-4118-a009-bf14193a7762>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.istairport.com/en/passenger/transport/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "IST" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://tr.parkopedia.com/parking/locations/flughafen_istanbul_tayakad%C4%B1n_mah._terminal_cad._no%253a1_arnavutk%C3%B6y_istanbul_t%C3%BCrkei_sxk6wp3t1fs" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.istairport.com/en/passenger/transport/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-912ebd2d-45d4-415a-82e6-22c7ae6fa9a5>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CJB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.in/parking/locations/coimbatore_international_airport_avinashi_rd_coimbatore_tamil_nadu_india_t9yyc051tp8/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aai.aero/en/airports/transport/coimbatore" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7565ed88-3bfd-417b-8465-c9c8182b558f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DGT" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7e3d6991-4ea1-4cb4-b977-34f80c8aabf2>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ALC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/l'altet_03195_elche_alicante_province_spain_eyz9exq7jhm/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aena.es/en/alicante-airport/public-transport.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aena.es/en/aeroport-alicante/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-77341d70-e47d-433c-adf5-bed1bcf77f42>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CNN" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1957f7ad-b1d0-4623-a8ab-dbc075553631>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EBB" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c24be2f9-81ac-4f8e-88e9-538914ddbf9f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BIL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/1901_terminal_circle_billings_montana_59105_united_states_of_america_c84ud4m1j7w/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8f01c58f-275e-46f2-8adb-1a121773c4e5>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ISB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/islamabad_international_airport_airport_avenue_islamabad_punjab_pakistan_ttgyct4yjrc/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e426d8c8-728b-4aca-9c2e-65973b74e58c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_map_link>
+              "https://de.maps-boston.com/img/0/logan-international-airport-landkarte.jpg" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.massport.com/logan-airport/to-from-logan/transportation-options/on-airport-shuttle/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BOS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/1_harborside_drive_boston_massachusetts_02128_united_states_of_america_drt3pb08v4z/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.massport.com/logan-airport/to-from-logan/transportation-options/explore-routes/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.massport.com/logan-airport/to-from-logan/transportation-options/ground-transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-762d2a34-280d-4099-9e51-20ae2f2b0a5f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BGW" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/baghdad_iraq_svztdxpjz6t/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.baghdad-airport.com/bus.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.baghdad-airport.com/taxi.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6dd7bdee-2a98-4568-a98d-754d3e9e71bc>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ALC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/l'altet_03195_elche_alicante_province_spain_eyz9exq7jhm/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aena.es/en/alicante-airport/public-transport.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aena.es/en/aeroport-alicante/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ef9fccb5-291f-44eb-b292-6446983d6e53>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.macau-airport.com/en/transportation/public-transport/shuttle-bus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MFM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.macau-airport.com/en/transportation/public-transport/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a5fbb26f-0e0d-4a5b-a259-e9077e0d1bbe>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SVQ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/aeropuerto_de_sevilla_ctra._de_madrid-c%c3%a1diz_km._532_sevilla_sevilla_41020_spanien_eyeucu0phjq/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aena.es/en/sevilla-airport/public-transport.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aena.es/en/sevilla-airport/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8da0d0df-85c2-447d-822d-a47b1ed4d275>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "JOG" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_adisucipto_(yogyakarta)_jalan_solo_km_9_sleman_yogyakarta_55282_indonesien_qqwe8yrt6py/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://yogyakarta-airport.co.id/en/domestic-terminal/index" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4d712892-be50-4483-b7ab-c595e1256baa>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://juanda-airport.com/en/special-transportation/index" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SUB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/betro_sedati_61253_sidoarjo_east_java_indonesia_qw8jyp39yjz/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://juanda-airport.com/en/public-transport/index" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://juanda-airport.com/en/public-transport/index" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-590b93e7-6410-4c90-83b5-ebafb8fbd396>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "KTM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_kathmandu_%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AD%E0%A5%81%E0%A4%B5%E0%A4%A8_%E0%A4%B5%E0%A4%BF%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%B2_kathmandu_bagmati_nepal_tuutw673bmw/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-d7b78471-c831-4713-9cfa-cf349651e847>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "STX" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-912350cc-3e4f-4179-b1a4-b3c8b882c4c9>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.melbourneairport.com.au/Passengers/To-from-the-airport/Buses-shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MEL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/departure_drive_melbourne_airport_victoria_3045_australia_r1r18jvm42t/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.melbourneairport.com.au/Passengers/To-from-the-airport/Taxis-rideshare-chauffeur" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-69dba5c7-4ba0-421f-8a1f-aff554ccb030>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "QRO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.mx/parking/locations/quer%C3%A9taro_international_airport_km._22%252b500_el_marqu%C3%A9s_quer%C3%A9taro_76260_mexiko_9g8v21wpssv/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aiq.com.mx/servicios.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-28214960-f0a5-4854-bf5a-380d6a8bdb75>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "OPO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/maia_porto_portugal_ez3fef1yke2/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.ana.pt/en/lis/access-parking/getting-to-and-from-the-airport/public-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5cbcd6aa-bee3-4762-b7d6-9377e7081511>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AXM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/armenia_quind%C3%ADo_department_colombia_d2f1y42byyq/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4dc6898d-be3d-44cd-b7c7-e153ea62c62a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://srq-airport.com/ground-transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SRQ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/6000_airport_circle_sarasota_florida_34243_united_states_of_america_dhv7c99qrqr/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://srq-airport.com/ground-transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://srq-airport.com/ground-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6cc1006c-61bc-493d-aa21-685711e5b900>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aeroportparisbeauvais.com/en/access-parking/shuttle/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BVA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/route_de_l'aeroport_60000_till%C3%A9_france_u0c92h0cprm/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aeroportparisbeauvais.com/en/access-parking/reach-the-airport-by-shuttle-bus-or-train/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aeroportparisbeauvais.com/en/access-parking/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9d4ecf06-7c80-4fc1-8830-115eca40b311>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "NAN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.airportsfiji.com/nat_public_buses.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.airportsfiji.com/nat_taxis.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-3abd5ae0-c762-4eb4-bc32-f88e0e90dd27>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CBB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_cochabamba_av_guillermo_killman_cochabamba_cochabamba_bolivien_6sbuyj4xrez/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-659a8706-8080-4301-a305-6c9e28544d0e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "IQT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://pe.parkopedia.com/parking/locations/flughafen_iquitos_av._abelardo_qui%C3%B1ones_km._6_san_juan_bautista_loreto_peru_6r7f7zh2dgq" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-cdd5a50d-0de6-4e8a-93a5-f15deb5eaa4e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PVR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/carretera_a_tepic_48283_puerto_vallarta_jalisco_mexico_9etjtn942j5/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-779edf7c-b444-4b93-afe9-a466ce69a9cf>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aai.aero/en/airports/transport/kolkata" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CCU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/flughafen_kolkata_jessore_rd_kalkutta_westbengalen_indien_tunbue424c4/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aai.aero/en/airports/transport/kolkata" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aai.aero/en/airports/transport/kolkata" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f5e83bfe-016a-4c34-b7d0-53978d8c4c35>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AGA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/bp_av._siam_adeje_canary_islands_38660_spain_esupemw0fm1/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.agadir-airport.com/en/getting_there.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.agadir-airport.com/en/getting_there.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5d50967c-0353-43de-924a-c8e6fef8ba3f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "VNS" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9d585b36-42bb-40cd-b87c-a3fbc435fcc6>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.fly2houston.com/hou/shuttles-buses/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HOU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/7800_airport_blvd_houston_texas_77061_united_states_of_america_9vk0xuv4mzh/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.fly2houston.com/hou/ground-transportation/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.fly2houston.com/iah/taxis-ride-apps/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-b9f1047a-ed94-45bb-baf9-4aacacd76b08>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AHB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/abha_'asir_region_saudi_arabia_sgnpxh5xcc2/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-062d8153-976c-4af9-808c-43123f8e767d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "KCH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/93250_kuching_sarawak_malaysia_w2q2qz5puk5/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-322baed5-4cb9-4999-bb42-61f9bd17ac42>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MUC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/nordallee_25_85356_freising_germany_u2875dtwy52/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.munich-airport.de/oeffentliche-verkehrsmittel-90215" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.munich-airport.de/taxi-service-point-700868" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a649ac28-dd4f-48f3-ac66-d1f4966f1e95>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CXR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/cam_h%E1%BA%A3i_%C4%90%C3%B4ng_654500_cam_ranh_khanh_hoa_vietnam_w6jsm2y4b13/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6cf326d5-b553-47b4-8f59-ee22018a60e4>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BGW" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/baghdad_iraq_svztdxpjz6t/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.baghdad-airport.com/bus.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.baghdad-airport.com/taxi.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-18ddd221-24b9-422e-ae1e-a70cd56fea97>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PPS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_puerto_princesa_puerto_princesa_international_airport_puerto_princesa_puerto_princesa_5300_philippinen_w9srqmtnjyk/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c4b828dd-b9d9-428e-b2d3-339527aeb6b7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TBP" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-662e9e84-8d9b-41a4-a0f5-2175c246d894>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DMK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_bangkok-don_mueang_222_vibhavadi_rangsit_rd_bangkok_metropolregion_bangkok_10210_thailand_w4rx1m60d65/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://donmueang.airportthai.co.th/en/contents/3-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-da8f1020-e4b9-4580-a069-d4c354cb87af>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BAH" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5b894502-22d7-4e62-acdb-4d91502fa586>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "KOS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.gr/parking/locations/flughafen_kos_%CE%91%CE%BD%CF%84%CE%B9%CE%BC%CE%AC%CF%87%CE%B5%CE%B9%CE%B1_festung_andimachia_s%C3%BCdliche_%C3%84g%C3%A4is_griechenland_swe326z065y/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.kgs-airport.gr/en/category-detailed/ctg_id-299/nd_id-1017" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c357f702-2316-491c-9acc-79ef4b406b97>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "STT" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e7ab26db-3f57-4c4d-9d92-26ffea6caa58>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.laguardiaairport.com/to-from-airport/rental-car-shuttle-relocation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LGA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.laguardiaairport.com/to-from-airport/public-transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.laguardiaairport.com/announcements/taxi-rider" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9d49eece-d0c2-40ec-846e-3e22ab69f750>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.antalya-airport.aero/passengers-visitors/transportation-parking/buses-and-mass-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AYT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://tr.parkopedia.com/parking/locations/flughafen_antalya_yenig%C3%B6l_mah._serik_cad._no%253a100_muratpa%C5%9Fa_antalya_t%C3%BCrkei_swtcuydh8ve/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.antalya-airport.aero/files/Schedule_bus_600_tr.pdf" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.antalyaairporttaxi.net/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5049cdb8-c406-4fe1-b1ed-22587b183ad8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AGA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/bp_av._siam_adeje_canary_islands_38660_spain_esupemw0fm1/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.agadir-airport.com/en/getting_there.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.agadir-airport.com/en/getting_there.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c76e7aed-a0f7-4dd1-a4ef-14137948f422>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "OKC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/7100_terminal_drive_oklahoma_city_oklahoma_73159_united_states_of_america_9y6975sc0un/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.flyokc.com/public-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4cdcb7a8-e1c7-49a2-8608-08cb68b013ed>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.aa2000.com.ar/elpalomar/Transporte?qa=EPA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EPA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_buenos_aires-el_palomar_ruta_provincial_201_mor%C3%B3n_provinz_buenos_aires_argentinien_69y747u5qmm/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aa2000.com.ar/elpalomar/Transporte?qa=EPA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aa2000.com.ar/elpalomar/Transporte?qa=EPA" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7f3a6fb4-33c6-42fb-a8b9-2fdc9fcf896e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.phl.org/to-and-from/taxis-and-limousines" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PHL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/8000_essington_avenue_philadelphia_pennsylvania_19153_united_states_of_america_dr4dbns01ks/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.phl.org/to-and-from/public-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c828b0ef-a796-4ad1-bf64-b1ee4cc5c9ef>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CUN" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-92805610-0f13-4951-9b67-67871eeb37ab>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.iflychs.com/Ground-Transportation/Taxis-Shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CHS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/5500_international_boulevard_north_charleston_south_carolina_29418_united_states_of_america_djz5496xr09/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.iflychs.com/Ground-Transportation/CARTA-Bus-Info" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.iflychs.com/Ground-Transportation/Taxis-Shuttles" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5eef0e67-ea38-4cdf-919c-40177f4f90b7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BQN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/hangar_road_aguadilla_00603_puerto_rico_de230r1ks3b/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c7683d73-5890-4162-b8cb-c90fcfa78df0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.dus.com/de-de/an-und-abreise/auto/carsharing" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DUS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.de/parking/locations/flughafenstra%C3%9Fe_105_40468_d%C3%BCsseldorf_germany_u1hg9yppg0u/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.dus.com/de-de/an-und-abreise" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.dus.com/de-de/an-und-abreise/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7e2e1c18-ccb0-4d86-9b4b-2bd05e77dc07>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ALG" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-32ea5536-fa19-40e1-a898-b7cc46bdd6fd>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ACC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.gacl.com.gh/transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-89d9e3d5-81d6-4e17-953a-30ae6fa3a56f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.gru.com.br/en/passenger/to-from-gru-airport/bus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GRU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.com.br/parking/locations/rodovia_h%C3%A9lio_smidt_aeroporto_internacional_guarulhos_-_s%C3%A3o_paulo_07180_brazil_6gyfw531j70/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.gru.com.br/en/passenger/to-from-gru-airport/train" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.gru.com.br/en/passenger/to-from-gru-airport/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-303931fa-b00b-4a30-901a-bcee27f5b039>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GYE" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://ec.parkopedia.com/parking/locations/jos%C3%A9_joaqu%C3%ADn_de_olmedo_international_airport_avenida_de_las_am%C3%A9ricas_pajan_guayas_province_ecuador_6px5y0nd01r/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a3588db0-dba0-4c1d-9729-727f78feeca0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AHB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/abha_'asir_region_saudi_arabia_sgnpxh5xcc2/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-09d5aa95-5b24-48b0-b649-a3c22160eeca>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AUH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/abu_dhabi_abu_dhabi_emirate_united_arab_emirates_thqejpx2nc3/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.abudhabiairport.ae/en/transport/to-and-from-the-airport/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.abudhabiairport.ae/en/transport/to-and-from-the-airport/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-415ba81f-d4e9-42e3-8e47-4a6d469d9981>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CCJ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.in/parking/locations/calicut_international_airport_karipur_vallikkunnu_kerala_india_t9yp27c9680/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aai.aero/en/airports/transport/calicut" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4a4b73cf-1bca-43e9-be3e-25a97b6581f8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://cial.aero/contents/viewcontent.aspx?linkLvl1Id=17&linkid=103" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "COK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/kochi_kerala_india_t9y0rxg11mz/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.cial.aero/taxifare/taxifaresearch.aspx?linkId=104&linkLvl1Id=17" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-07a6bfab-9d47-4493-b00f-b63436819812>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.iflychs.com/Ground-Transportation/Taxis-Shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CHS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/5500_international_boulevard_north_charleston_south_carolina_29418_united_states_of_america_djz5496xr09/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.iflychs.com/Ground-Transportation/CARTA-Bus-Info" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.iflychs.com/Ground-Transportation/Taxis-Shuttles" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7ba29864-9cb9-4898-acd6-e00724a5e3a0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ACC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.gacl.com.gh/transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-bb6f3ab3-6ac6-43f2-ab6b-3aeb5c9178e6>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CBB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_cochabamba_av_guillermo_killman_cochabamba_cochabamba_bolivien_6sbuyj4xrez/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e145a130-f87d-4737-93d7-615f43ea818a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SAL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/espargos_sal_cape_verde_e6zxmeyvddp/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ef37f5b1-f78b-4520-b6a9-c0eceacc6673>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.hamburg-airport.de/en/carsharing.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HAM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.de/parking/locations/flughafenstra%C3%9Fe_1-3_22335_hamburg_germany_u1x15srfbf0/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.hamburg-airport.de/en/bus_rail_and_transfer.php" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.hamburg-airport.de/en/taxi.php" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-530eb45f-4d64-4ca5-9016-16f37ae693cb>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TLV" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.iaa.gov.il/en-US/airports/bengurion/Transportation/Pages/PublicTransportation.aspx" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.iaa.gov.il/en-US/airports/bengurion/Transportation/Pages/Taxi.aspx" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7bcad742-516b-4744-a73f-a59f1db484c2>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MBA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/mombasa_kenya_kzk0ywsrh3k/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.kaa.go.ke/airports/transport/public-transport/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.kaa.go.ke/airports/transport/taxiscabs/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9103be6e-8a02-413a-bd22-c8892f62fe0a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "FCO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.it/parking/locations/00054_fiumicino_rome_italy_sr2tyc2ntsy/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.adr.it/pax-fco-autobus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.adr.it/pax-fco-taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-52d85252-3703-4772-b0cd-fb0bcef4c35a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ADZ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/san_andr%C3%A9s_archipelago_of_saint_andr%C3%A9ws_colombia_d4jzsfezhn8/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-fad28892-a208-4457-8d56-3d473cec48d2>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EZE" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_buenos_aires-ezeiza_au._teniente_general_pablo_ricchieri_ezeiza_provinz_buenos_aires_argentinien_69y3gvw3fdv/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-252a8c71-bbf6-4ec4-b803-79e1faa04756>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "JSR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_jessore_jessore_town_jessore_khulna_bangladesch_tup7ugugnef/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.caab.gov.bd/airports/jessore.html#Services" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f7490bab-bc23-4f0e-baf0-79f87d774e3d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.dme.ru/en/transport/bus/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.dme.ru/en/transport/karshering/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DME" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.dme.ru/en/transport/train/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.dme.ru/en/transport/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f801a029-7abc-4121-9964-a33fc020fc1f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "RUH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/king_khalid_international_airport_airport_rd_riyadh_riyadh_saudi_arabia_th3jyxpfb6r/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://kkia.sa/en/at-the-airport/services/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-cff64500-6f3d-4782-b303-a832ab3c442f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BRC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/san_carlos_de_bariloche_r%C3%ADo_negro_province_argentina_62tmcsbgvs4/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-63721334-8b99-4965-9dbf-2e9acdbbb64f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "FEZ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://ma.parkopedia.com/parking/locations/southern_tower_av._borj_sud_fes_f%C3%A8s-boulemane_30_morocco_eyh3wzkgck7/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.onda.ma/Nos-Aéroports/Aéroport-Fès-Saïss/Services/Taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1fa4ea4c-adcf-460b-9c8b-5bfa36eacc3a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://airport-transport.lv/en/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "RIX" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/terminal_c_riga_international_airport_m%C4%81rupe_bezirk_m%C4%81rupe_lettland_ud15cdu5bg4/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://airport-transport.lv/en/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://airport-transport.lv/en/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-b7ddbabb-371b-437d-b0e5-81eeceb60916>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CTG" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://co.parkopedia.com/parking/locations/cartagena_of_indias_bol%C3%ADvar_department_colombia_d3f733s1vmt/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://aeropuertocartagena.com.co/frequent-questions/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://aeropuertocartagena.com.co/frequent-questions/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#id>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5dbbe95c-97ec-46e7-b473-92d0087a4b9f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.kaa.go.ke/airports/transport/shuttle-services/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "WIL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.kaa.go.ke/airports/transport/public-transport/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.kaa.go.ke/airports/transport/taxiscabs/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-67ed9336-9e40-4261-b75e-cf6d7488704b>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LYS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/69125_colombier-saugnieu_rh%C3%B4ne_france_u05s5e54k9d/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.lyonaeroports.com/en/access-transports/by-train" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.lyonaeroports.com/acces-transports/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-789ff666-4277-44f9-a252-ac34675653f3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CAN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.cn/parking/locations/flughafen_guangzhou_guangzhou_guangdong_volksrepublik_china_ws0t44mff9n/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.gbiac.net/byairport-web/page/traffic?urlKey=wfjc_en&id=1332" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.gbiac.net/byairport-web/page/traffic" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ca9f7e36-9a84-44d9-b37a-955d29b25ee0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DVO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/buhangin_davao_city_davao_province_8000_philippines_wc326qj8zxp/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport>
+      a       owl:Class .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-05c72293-8176-49fd-ab9f-1e1aa421ea59>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "IEV" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://ua.parkopedia.com/parking/locations/kiev_kiev_oblast_ukraine_u8vxn84vph6/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://iev.aero/en/services/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f6ca4638-98b7-40f7-a737-6a9547d897b3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "IBZ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.es/parking/locations/sant_jordi_de_ses_salines_07817_sant_josep_de_sa_talaia_balearic_islands_spain_snbvpxzxbx9/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aena.es/en/ibiza-airport/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8f6902e4-e9c7-49eb-a6d2-7367e8b64853>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.nuevopudahuel.cl/services/transvip?language=en" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SCL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/armando_cort%C3%ADnez_pudahuel_santiago_metropolitan_region_9020000_chile_66j9v6stj03/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.nuevopudahuel.cl/airport-m?language=en" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.nuevopudahuel.cl/servicios/v-controlada" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-fe9ab01a-ee6a-4608-8c99-0cd46643a08c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HGH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.cn/parking/locations/xiaoshan_district_hangzhou_zhejiang_people's_republic_of_china_wtme8x6z0e7/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#airport_map_link>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-37402bcc-4476-4a29-b911-8950d98a6215>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PPT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.taxitahiti.com/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c3913b78-2a55-4125-ace0-9cffa0b0abd8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.xxia.com/Home/Transport/Coach.htm" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "XIY" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.xxia.com/Home/Transport/Airport_bus.htm" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.xxia.com/Home/Transport/Taxi.htm" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-509861ad-d194-4a43-8f3b-b86e7c448352>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://hofmann-bus-taxi.com/limousinenservice/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "STR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/flughafenstra%C3%9Fe_32_70629_leinfelden-echterdingen_germany_u0wscpc7jte/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.flughafen-stuttgart.de/an-abreise-und-parken/anreise-mit-bus-und-bahn/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.flughafen-stuttgart.de/an-abreise-und-parken/taxishuttleservice/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-184a2819-1e7d-4fd2-b7ff-9c6f62927192>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MDZ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://ar.parkopedia.com/parking/locations/aeropuerto_internacional_de_mendoza_-_gobernador_francisco_gabrielli_(el_plumerillo)_(mdz)_ruta_nacional_40_km._15_las_heras_provinz_mendoza_argentinien_66pj4ry7cmv" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.aa2000.com.ar/mendoza/Transporte" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-13af367c-1630-4002-82bb-524d87c75296>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "KBL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_kabul_%D8%B3%D8%B1%DA%A9_%D8%B1%D9%88%D8%B3%DB%8C_kabul_kabul_afghanistan_tw1hwunrdef/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c881b90a-8f00-4f13-b134-c89f3289e5c1>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DMK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_bangkok-don_mueang_222_vibhavadi_rangsit_rd_bangkok_metropolregion_bangkok_10210_thailand_w4rx1m60d65/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://donmueang.airportthai.co.th/en/contents/3-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1a1d4cad-8aef-4a1f-9726-90815a5c2905>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MID" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/97255_m%C3%A9rida_yucat%C3%A1n_mexico_d58ppd0q1dc/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c6038fdc-7177-40cd-a4cd-f43398024fe0>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.antalya-airport.aero/passengers-visitors/transportation-parking/buses-and-mass-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AYT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://tr.parkopedia.com/parking/locations/flughafen_antalya_yenig%C3%B6l_mah._serik_cad._no%253a100_muratpa%C5%9Fa_antalya_t%C3%BCrkei_swtcuydh8ve/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.antalya-airport.aero/files/Schedule_bus_600_tr.pdf" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.antalyaairporttaxi.net/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6b27e497-00ef-4238-8568-cb4482d12196>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.cairnsairport.com.au/travelling/parking-and-transport/transport-options/shuttle-bus/#" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CNS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/airport_avenue_cairns_north_queensland_4870_australia_rhzxuugd032/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.cairnsairport.com.au/travelling/parking-and-transport/transport-options/taxis/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-48045b58-a401-4da8-8092-f5d2d95f037d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.swedavia.com/landvetter/carsharing/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GOT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.se/parking/locations/landvetter_v%C3%A4stra_g%C3%B6taland_county_sweden_u628jsgvb85/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.swedavia.com/landvetter/bus/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.swedavia.com/landvetter/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-05c2d528-d576-452d-879f-ed4b3e12edcf>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TIA" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-dfabcbea-f370-4a5e-a877-4de2d0d1a7fa>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AUH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/abu_dhabi_abu_dhabi_emirate_united_arab_emirates_thqejpx2nc3/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.abudhabiairport.ae/en/transport/to-and-from-the-airport/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.abudhabiairport.ae/en/transport/to-and-from-the-airport/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-2765ccff-e097-4297-a166-db68d4ce661b>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ADZ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/san_andr%C3%A9s_archipelago_of_saint_andr%C3%A9ws_colombia_d4jzsfezhn8/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-700e1e0a-75cb-4d1e-9019-d8838bf5d783>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BQN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/hangar_road_aguadilla_00603_puerto_rico_de230r1ks3b/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f13f66e6-3952-4f01-b3a7-8e8d496e3c81>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CUC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/aeropuerto_internacional_camilo_daza_(cuc)_avenida_aeropuerto_c%c3%bacuta_departamento_de_norte_de_santander_kolumbien_d3kmn515cfe/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c7da1b6d-4718-4fc0-bd29-86d0332d01a7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AXM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/armenia_quind%C3%ADo_department_colombia_d2f1y42byyq/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-b1f24a88-cb9c-49fd-bc92-7ac12f418663>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.cdairport.com/en/parking_lot.aspx?t=125" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CTU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.cdairport.com/en/traffic.aspx?t=121" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.cdairport.com/en/parking_lot.aspx?t=123" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8d067c60-07f6-422f-8dc4-c3ce7af5a635>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DAD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/hai_chau_da_nang_vietnam_w6ugq5dp817/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-596da202-a836-4e89-81d4-45544279f2f8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DAR" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-abb9652d-b2e0-4495-b0b8-44298a09e383>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aucklandairport.co.nz/transport/taxis-and-shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AKL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/ray_emery_drive_mangere_auckland_2022_new_zealand_rckm3r6pw72/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aucklandairport.co.nz/transport/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aucklandairport.co.nz/transport/taxis-and-shuttles" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-79807310-4bbb-4056-a65b-c57d25acf4ea>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DGT" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-6db38e26-aaa4-4863-ba6f-dac6d06cf6db>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.flysfo.com/to-from/ground-transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SFO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/san_francisco_california_94128_united_states_of_america_9q8ynbw26k3/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.flysfo.com/to-from/public-transit" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.flysfo.com/to-from/ground-transportation" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ff259b27-f03b-4442-a255-88b430f806fa>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PTY" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/albrook_%22marcos_a._gelabert%22_international_airport_ave_canfield_panama-stadt_panama-stadt_panama_d1x7j97c933/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.tocumenpanama.aero/index.php/transporte-terrestre/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-7045ef24-c396-4757-b553-0bbcff5cdfe1>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BOC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/bocas_del_toro_province_panama_d1tt0s6k8n9/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5d4affeb-e9f9-405b-a6a6-4a4bb633e402>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.miami-airport.com/taxicabs-shuttles.asp" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MIA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/northwest_42nd_avenue_miami_florida_33126_united_states_of_america_dhwftw90jj1/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.miami-airport.com/public-transportation.asp" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.miami-airport.com/taxicabs-shuttles.asp" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-b0d92989-a9f1-4f71-b843-9f090c571c05>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BOC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/bocas_del_toro_province_panama_d1tt0s6k8n9/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-768fe61d-1983-40d2-bd63-bfd8007a3dd3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SGN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_tan-son-nhat_tr%C6%B0%E1%BB%9Dng_s%C6%A1n_qu%E1%BA%ADn_t%C3%A2n_b%C3%ACnh_ho-chi-minh-stadt_736900_vietnam_w3gve13bvz5/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-cc4864dd-94da-46df-92d5-d41e2241af9d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SKT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.daewoocab.com.pk/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-60ff1b0a-a187-4149-9398-8c039bbfc9fe>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.cairnsairport.com.au/travelling/parking-and-transport/transport-options/shuttle-bus/#" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CNS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/airport_avenue_cairns_north_queensland_4870_australia_rhzxuugd032/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.cairnsairport.com.au/travelling/parking-and-transport/transport-options/taxis/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c10615cc-ee46-45d7-94f7-5196ac28a043>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EOH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://co.parkopedia.com/parking/locations/medell%C3%ADn_antioquia_department_colombia_d34782b46cf/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-98c2ce1e-f350-4996-b1d3-9b8c9c655812>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CCJ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.in/parking/locations/calicut_international_airport_karipur_vallikkunnu_kerala_india_t9yp27c9680/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aai.aero/en/airports/transport/calicut" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e4dd43f9-fa49-4b5c-928d-d197ae0b4ced>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BIL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/1901_terminal_circle_billings_montana_59105_united_states_of_america_c84ud4m1j7w/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-55f83875-8ac4-41dd-a17a-7c86e320dde8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GIG" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.com.br/parking/locations/avenida_vinte_de_janeiro_gale%C3%A3o_rio_de_janeiro_-_rio_de_janeiro_21941_brazil_75cq0n82345/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.riogaleao.com/passageiros/agrupador/how-to-get-and-go" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.riogaleao.com/passageiros/page/taxis-e-aplicativos" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-951bb5ab-da7d-4fc8-83dc-4155747a3a24>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CTG" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://co.parkopedia.com/parking/locations/cartagena_of_indias_bol%C3%ADvar_department_colombia_d3f733s1vmt/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://aeropuertocartagena.com.co/frequent-questions/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://aeropuertocartagena.com.co/frequent-questions/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-b316490a-7257-42c4-876a-b71fa4468aa8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "RGN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://yangonairport.aero/index.php/en/transport#taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-bde1b81b-a51f-4c25-98eb-c1dc2404caf7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.flypittsburgh.com/parking-transport/limousines,-taxis,-shuttles,-charter-buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PIT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/pittsburgh_international_airport_1000_airport_blvd_coraopolis_pennsylvania_15108_vereinigte_staaten_dpnymsp1g2w/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.flypittsburgh.com/parking-transport/public-transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.flypittsburgh.com/parking-transport/limousines,-taxis,-shuttles,-charter-buses" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-d5841a70-9e18-4dd7-bc51-38cbec2f2515>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SDQ" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_las_am%c3%a9ricas_ruta_66_boca_chica_santo_domingo_dominikanische_republik_d7q2ye1fd1z/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-2ed0428e-6c37-4d1d-9749-8dbb07a306bb>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EVN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/yerevan_armenia_szpst50hcee/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.zvartnots.aero/Content/TaxiAndRentACar" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e906208a-e236-4488-951d-35016075a627>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://spokaneairports.net/ground-transportation/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GEG" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/9000_west_airport_drive_spokane_washington_99224_united_states_of_america_c2kqvj4t0dw/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://spokaneairports.net/ground-transportation/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://spokaneairports.net/ground-transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-bb8ea6c2-dd98-4fcf-8a92-84ceb2b0c47d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MRS" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/13700_marignane_bouches-du-rh%C3%B4ne_france_spexnu106ff/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.marseille-airport.com/access-car-parks/access/by-train-or-by-bus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.marseille-airport.com/access-car-parks/access/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-99609b36-acdf-4337-b590-1385053732fe>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "USM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.samuiairport.com/index.php?route=content/category&path=3&content_id=64" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://samuiairporttaxi.com/home" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-39478796-ba46-440b-8c7b-b296fa4ccb4c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CNX" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://th.parkopedia.com/parking/locations/flughafen_chiang_mai_60_mahidol_rd_amphoe_mueang_chiang_mai_chiang_mai_50200_thailand_w5q6u08k9dn/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1c37f876-1a0e-44d5-afdb-1a0cd8dfa887>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PFO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_paphos_airport_drive_%CE%91%CF%87%CE%AD%CE%BB%CE%B5%CE%B9%CE%B1_paphos_republik_zypern_swpj7pyyrz4" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.hermesairports.com/while-at-the-airport/larnaka/airport-services/public-transportation/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4b1a59ce-1c61-45da-a42e-38ea57c4da09>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SAT" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/9800_airport_boulevard_san_antonio_texas_78216_united_states_of_america_9v1zzpnvp8x/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.sanantonio.gov/SAT/Ground-Transportation/Charter-Bus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.sanantonio.gov/SAT/GroundTransportation/Taxi.aspx" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-64e8ca72-4de3-4363-8987-9b70d5f48bda>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "POS" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-77ac4047-faad-4a38-8b1a-27435681c22e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PBC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.mx/parking/locations/flughafen_puebla_km_91.5_carr._fed._m%C3%A9xico_-_puebla_huejotzingo_puebla_74168_mexiko_9g6j12nkys0/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-1379fb0d-0a40-43c1-9849-8af1402e6036>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CUC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/aeropuerto_internacional_camilo_daza_(cuc)_avenida_aeropuerto_c%c3%bacuta_departamento_de_norte_de_santander_kolumbien_d3kmn515cfe/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-cf7f259e-3a0a-483e-97d2-46d8bf164917>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TUN" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-78a36ae5-ca79-48ef-9039-94886a8cc87e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BCD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/bacolod-silay_international_airport_(bcd)_j.pitong_ledesma_st._silay_negros_occidental_6117_philippines_w9zmr3bf2s9/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-d3c9f85e-d6ba-443e-acf1-4583093839e3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SVO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.svo.aero/en/htgt/to-sheremetyevo/aeroexpress" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.svo.aero/en/services/in-airport/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-71584d1d-9d08-441d-ab30-825cf54db49e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.pisa-airport.com/en/the-passengers/transport/n-c-c.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PSA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_pisa_%22galileo_galilei%22_piazzale_corradino_d'ascanio_pisa_provinz_pisa_56121_italien_spz2s99b1ws/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.pisa-airport.com/en/the-passengers/transport/bus.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.pisa-airport.com/en/the-passengers/transport/taxi.html" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ba00e745-b9ed-464a-a05e-5805d0727cfa>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.dme.ru/en/transport/bus/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.dme.ru/en/transport/karshering/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DME" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.dme.ru/en/transport/train/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.dme.ru/en/transport/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a554b346-588f-49c8-932d-25687eaec7e1>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.aeroportodinapoli.it/collegamenti-con-napoli-centro" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "NAP" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/80144_naples_province_of_naples_italy_sr60scyrk07/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aeroportodinapoli.it/bytaxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-10491511-4ffa-446a-81f9-0a03711e90b1>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.fraport-slovenija.si/en/passengers-and-visitors/getting-here/shuttle/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "LJU" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://si.parkopedia.com/parking/locations/flughafen_jo%C5%BEe_pu%C4%8Dnik_ljubljana_zgornji_brnik_130a_cerklje_na_gorenjskem_cerklje_na_gorenjskem_slowenien_u24qbzqps9b/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.fraport-slovenija.si/en/passengers-and-visitors/getting-here/bus/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.fraport-slovenija.si/en/passengers-and-visitors/getting-here/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-625f82ab-82f1-4323-acbd-827c67b11a69>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PER" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/perth_airport_(per)_horrie_miller_dr_perth_western_australia_6105_australia_qd66qbvcngr/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.perthairport.com.au/to-and-from-the-airport/transport-options/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.perthairport.com.au/to-and-from-the-airport/transport-options/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e9146c68-2cfc-4c66-8589-9ee25c401545>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aeroportparisbeauvais.com/en/access-parking/shuttle/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BVA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/route_de_l'aeroport_60000_till%C3%A9_france_u0c92h0cprm/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aeroportparisbeauvais.com/en/access-parking/reach-the-airport-by-shuttle-bus-or-train/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aeroportparisbeauvais.com/en/access-parking/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-eb57a403-db19-482b-b880-dfb78922c731>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "EBB" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-ea84411d-e511-47db-8ede-49f335a70571>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CJB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.in/parking/locations/coimbatore_international_airport_avinashi_rd_coimbatore_tamil_nadu_india_t9yyc051tp8/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aai.aero/en/airports/transport/coimbatore" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-f710b75f-dc73-400a-bc33-5a10e1146440>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.clarkinternationalairport.com/shuttle-and-bus-services" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CRK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/clark_freeport_zone_m.a._roxas_avenue_mabalacat_pampanga_2010_philippines_wdtwr94mcrc/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.clarkinternationalairport.com/shuttle-and-bus-services" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://clarkinternationalairport.com/rental-cars-taxi-services/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-b82b82c6-f861-44fc-a978-54418b32319a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CNX" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://th.parkopedia.com/parking/locations/flughafen_chiang_mai_60_mahidol_rd_amphoe_mueang_chiang_mai_chiang_mai_50200_thailand_w5q6u08k9dn/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-150fb6d2-687d-4507-bf10-07f7a39fd449>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.fly2houston.com/iah/shuttles-buses/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "IAH" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/2800_north_terminal_road_houston_texas_77032_united_states_of_america_9vk4w6fn6x4/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.fly2houston.com/iah/taxis-ride-apps/#" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c6467d54-7192-405c-a6f4-068ff256c68d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BAH" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a3388273-69ca-4a63-8ec7-bd8dfbaacae8>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.clarkinternationalairport.com/shuttle-and-bus-services" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CRK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/clark_freeport_zone_m.a._roxas_avenue_mabalacat_pampanga_2010_philippines_wdtwr94mcrc/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.clarkinternationalairport.com/shuttle-and-bus-services" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://clarkinternationalairport.com/rental-cars-taxi-services/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-9df47d04-feb2-4696-affa-74ab545f52c7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "JNB" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/jnb_international_airport_-_a_star_alliance_mega_hub_kempton_park_gauteng_1627_s%c3%bcdafrika_kek567nd9cw/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.airports.co.za/airports/or-tambo-international/transport/public-transport" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8ffff5e1-696c-41f3-accd-4eb39fd26694>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "CAN" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.cn/parking/locations/flughafen_guangzhou_guangzhou_guangdong_volksrepublik_china_ws0t44mff9n/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.gbiac.net/byairport-web/page/traffic?urlKey=wfjc_en&id=1332" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.gbiac.net/byairport-web/page/traffic" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-31d8989c-76c3-4f91-95bf-c1834bb9805a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://kayseri.dhmi.gov.tr/Sayfalar/icerik-detay.aspx?oid=2497" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ASR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/mustafa_kemal_pa%C5%9Fa_mustafa_kemal_pa%C5%9Fa_bursa_bursa_province_turkey_sxhsg9k8try/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://kayseri.dhmi.gov.tr/Sayfalar/icerik-detay.aspx?oid=2464" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://kayseri.dhmi.gov.tr/Sayfalar/icerik-detay.aspx?oid=2497" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-fb18fbc2-9ae4-4742-ad99-baa97c581ad9>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "IAO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/sayak_del_carmen_surigao_del_norte_philippines_wcc850puhd3/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e1ef6a6e-9601-4ebc-a87a-e9374dfb8f73>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DTW" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/detroit_michigan_48242_united_states_of_america_dps8ph5554q/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-5d31eab2-1624-450f-9f9a-6fbfbc84e18c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "DLI" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/da_lat_l%C3%A2m_%C4%90%E1%BB%93ng_vietnam_w6j5gtfmk0x/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-82697d7c-73e1-4b97-b11a-cfed3e36ce33>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.aeropuertorionegro.co/web/page/72/C%C3%B3mo-llegar" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MDE" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://co.parkopedia.com/parking/locations/flughafen_jos%C3%A9_mar%C3%ADa_c%C3%B3rdova_via_medellin_-_rionegro_rionegro_departamento_de_antioquia_kolumbien_d3475dscrwk/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.aeropuertorionegro.co/web/page/72/C%C3%B3mo-llegar" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-d9b59743-3b62-4a5f-addb-caa0b207bbc7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://sacramento.aero/smf/to-and-from/shuttles-and-more" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SMF" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/6900_airport_boulevard_sacramento_california_95837_united_states_of_america_9qcs1h4wfpd/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://sacramento.aero/smf/to-and-from/public-transportation" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://sacramento.aero/smf/to-and-from/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-33f60de3-90ee-4de4-8cb1-2de9b4004f9b>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TGD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.royaltaxi.me/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4b15f324-2f27-45b4-9bda-948d9066f9a9>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://cial.aero/contents/viewcontent.aspx?linkLvl1Id=17&linkid=103" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "COK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/kochi_kerala_india_t9y0rxg11mz/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.cial.aero/taxifare/taxifaresearch.aspx?linkId=104&linkLvl1Id=17" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-53a7bde0-b0ba-4987-a7ee-cad0c218d83f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BRC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/san_carlos_de_bariloche_r%C3%ADo_negro_province_argentina_62tmcsbgvs4/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e8233cdb-757b-48fd-91a1-72e0a1c72313>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HBE" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/new_borg_el_arab_alexandria_governorate_egypt_stmp3zfeccv/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-84175a79-31fb-4f30-b5e9-b329ee6e48fe>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SOF" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.sofia-airport.bg/en/passengers/and-airport/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.sofia-airport.bg/en/passengers/and-airport/private-transport" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-4778b54d-c34e-44e7-b52d-cb4cc135431d>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "BCD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/bacolod-silay_international_airport_(bcd)_j.pitong_ledesma_st._silay_negros_occidental_6117_philippines_w9zmr3bf2s9/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e4f32c1a-6393-4cf7-92fd-4ad0b3ee1904>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "JMK" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://mykonosbus.com/index.en.html" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.jmk-airport.gr/en/category-detailed/ctg_id-398/nd_id-1281" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-111d2ab0-8a7d-4516-a4d1-254e6c86a93c>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PQC" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/phuong_binh_sunset_grill_long_beach_ph%C3%BA_qu%E1%BB%91c_kien_giang_922200_vietnam_w3ccvzbjfny/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+      a       owl:DatatypeProperty .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c58e2438-39d1-4d43-9851-66b95d963942>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "HER" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.gr/parking/locations/heraklion_crete_greece_sw3c5bjx941/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-a377518f-8b70-4d77-8d05-2927f047753f>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/public-bus" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "SAW" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/flughafen_istanbul-sabiha_g%C3%B6k%C3%A7en_pendik_kocaeli_t%C3%BCrkei_sxkben0tv89/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/rail-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.sabihagokcen.aero/passengers-and-visitors/transport-and-parking/transportation/taxi" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-8a437bf6-440f-4c68-a871-073acd53f9e3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://kayseri.dhmi.gov.tr/Sayfalar/icerik-detay.aspx?oid=2497" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ASR" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/mustafa_kemal_pa%C5%9Fa_mustafa_kemal_pa%C5%9Fa_bursa_bursa_province_turkey_sxhsg9k8try/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://kayseri.dhmi.gov.tr/Sayfalar/icerik-detay.aspx?oid=2464" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://kayseri.dhmi.gov.tr/Sayfalar/icerik-detay.aspx?oid=2497" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-0bb1269a-014d-4171-b823-986bb7514ff7>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MLM" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/carretera_morelia-zinap%C3%A9cuaro_58920_%C3%81lvaro_obreg%C3%B3n_municipality_michoac%C3%A1n_mexico_9g80uccc1u9/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c2e10b27-9573-43ef-80e8-6004db6dee64>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "http://www.elpasointernationalairport.com/shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "ELP" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://en.parkopedia.com/parking/locations/6701_convair_road_el_paso_texas_79925_united_states_of_america_9tskfswtxy2/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "http://www.elpasointernationalairport.com/buses" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "http://www.elpasointernationalairport.com/taxis" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-383e4720-d6db-475c-af80-9bd61dfae77e>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "GOI" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/goa_international_airport_%2f_dabolim_airport_airport_road_mormugao_goa_india_tdsx80k7trb/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-e34180ab-919c-457c-9941-8b8da10b4508>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.naha-airport.co.jp/en/access/bus/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "OKA" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/naha_i_tabukan_utara_95856_kepulauan_sangihe_north_sulawesi_province_indonesia_wb9kbtbjt18/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.naha-airport.co.jp/en/access/monorail/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.naha-airport.co.jp/en/access/taxi/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-14e3ccd7-3ab0-4035-9e00-dcbb9e33e935>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "MYD" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/malindi_kilifi_county_kenya_kzkt8vuj6hv/" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-04135120-76c1-4070-b0af-44730a0d05ee>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "TAC" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-60ff7a0d-e59d-4698-a0d3-5dacaedaa8d3>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.aucklandairport.co.nz/transport/taxis-and-shuttles" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "AKL" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#private_car-link>
+              "https://www.parkopedia.at/parking/locations/ray_emery_drive_mangere_auckland_2022_new_zealand_rckm3r6pw72/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.aucklandairport.co.nz/transport/public-transport" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.aucklandairport.co.nz/transport/taxis-and-shuttles" .
+
+<http://www.semanticweb.org/GregorKaefer/vasqua#Airport-c61335b6-c841-4f58-b310-c384d36f531a>
+      a       <http://www.semanticweb.org/GregorKaefer/vasqua#Airport> ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#airport_shuttle-link>
+              "https://www.gesap.it/en/aeroporto/arrive-at-the-airport/shuttle-bus/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#carsharing-link>
+              "https://www.gesap.it/en/aeroporto/arrive-at-the-airport/car-sharing/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#id>
+              "PMO" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#public_transport-link>
+              "https://www.gesap.it/en/aeroporto/arrive-at-the-airport/connections/" ;
+      <http://www.semanticweb.org/GregorKaefer/vasqua#taxi-link>
+              "https://www.gesap.it/en/aeroporto/arrive-at-the-airport/connections/" .
